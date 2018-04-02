@@ -1,0 +1,10 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "<Your Company> 2016",
+      "license": "Mendix 2017",
+      "author": "Matthew Panetta",
+      "boilerplate": "appstore"
+    }
+  }
+}
